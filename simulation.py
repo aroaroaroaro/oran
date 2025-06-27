@@ -1,4 +1,4 @@
-# simulation.py1
+# simulation.py
 
 import random
 import datetime
